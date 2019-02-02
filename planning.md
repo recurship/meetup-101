@@ -24,5 +24,25 @@ Normally you decide the number of people you would like to have in your meetup a
 
 You dont really need sponsership for a meetup. Essentially you need 3 things, a sponsered venue, volenteers speakers and one or two volenteer to help run the meetup. If you want to do some snacks, in Karachi you need about PKR 4000 - 5000 (USD 30) to cater tea and snacks for about 50 people. This is a fairly minimal amount which can be usually sponsered by a single company. If you have sponsership and are looking for splurge, some options include a fancy venue, proper lunch, give away goodies, shields for speakers, honorium for speakers, and camera / video.
 
+### Setting up a team
 
+[x] Organizer 
+The person who plan the event, lead whole team and keep a check on everything has to be done on time and help team if they needed.
 
+##### Volunteer List
+
+[x] Graphics - Event Content Responsible
+[x] Administration - Participant’s responsible
+Make sure who has registered and came as well, if anyone need any help during meet up 
+[x] Promotion Lead - Social Media Responsible
+We need to target only related devs - don’t need to revolve around irrelevant people
+[x] Operations - talks and speakers responsible
+Make sure everything is there for meet up, Live streaming setup,mic, speakers, connectors, projectors, photographers, co-ordinate with speakers if they need anything and they have setup for talk i.e., screen video recorder, connector
+[x] Hosts 
+Introduce every speaker and his/her talk, prepare agenda and plan activities for the meetup
+[x] Talk & Speaker Reviewer
+
+##### Choosing volunteers
+
+- Committed and dedicated to their task(no excuses/no complains)
+- Humble and responsive to the community
